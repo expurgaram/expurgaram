@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **expurgaram/expurgaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/expurgaram) [![Discord Badge](https://img.shields.io/discord/808162135342579773?color=s&label=Discord&logo=Discord&logoColor=lol&style=flat-square)](https://discord.gg/xg96TukeX4
 )
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/suethinvisible_/)](https://www.instagram.com/suethinvisible_/)
 
 <!--
 **Sueth/Sueth** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
