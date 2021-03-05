@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### console.log('Hello World!')
+<img align="right" src="https://github.com/MicaelliMedeiros/micaellimedeiros/blob/master/image/computer-illustration.png?raw=true" width="350"/>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/expurgaram) [![Discord Badge](https://img.shields.io/discord/808162135342579773?color=s&label=Discord&logo=Discord&logoColor=lol&style=flat-square)](https://discord.gg/xg96TukeX4
 )
